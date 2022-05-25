@@ -1,0 +1,14 @@
+.container{
+    background-color: antiquewhite;
+    padding: 20px 30px;
+}
+
+.col-sm-4 a{
+    color: black;
+}
+.col-sm-4 h2{
+    margin-bottom: 15px;
+}
+.col-sm-5 a{
+    color: black;
+}
